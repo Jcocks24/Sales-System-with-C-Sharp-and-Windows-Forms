@@ -1,0 +1,52 @@
+E:\Programming\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe.config
+F:\Programming\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe.config
+F:\Programming\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe
+F:\Programming\SalesSystem\SalesSystem\bin\Debug\SalesSystem.pdb
+F:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csprojResolveAssemblyReference.cache
+F:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.SalesSystem.resources
+F:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.Properties.Resources.resources
+F:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csproj.GenerateResource.Cache
+F:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.exe
+F:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.pdb
+E:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.exe
+E:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.pdb
+E:\Programming\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe
+E:\Programming\SalesSystem\SalesSystem\bin\Debug\SalesSystem.pdb
+E:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csprojResolveAssemblyReference.cache
+E:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.SalesSystem.resources
+E:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.Properties.Resources.resources
+E:\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csproj.GenerateResource.Cache
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe.config
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.exe
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.pdb
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\SalesSystem\SalesSystem\bin\Debug\SalesSystem.pdb
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csprojResolveAssemblyReference.cache
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.SalesSystem.resources
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.Properties.Resources.resources
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csproj.GenerateResource.Cache
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe.config
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.exe
+C:\Users\jayson\Documents\Whitireia\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.pdb
+C:\Users\jayson\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe.config
+C:\Users\jayson\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.exe
+C:\Users\jayson\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.pdb
+F:\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe.config
+F:\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.exe
+F:\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.pdb
+F:\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe
+F:\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\bin\Debug\SalesSystem.pdb
+F:\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csprojResolveAssemblyReference.cache
+F:\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.SalesSystem.resources
+F:\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.Properties.Resources.resources
+F:\Documents\Whitireia\Year One\Semester 2\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csproj.GenerateResource.Cache
+D:\Whitireia\Year 1\Semester 2 2016\Programming\Assignment 1\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe.config
+D:\Whitireia\Year 1\Semester 2 2016\Programming\Assignment 1\SalesSystem\SalesSystem\bin\Debug\SalesSystem.exe
+D:\Whitireia\Year 1\Semester 2 2016\Programming\Assignment 1\SalesSystem\SalesSystem\bin\Debug\SalesSystem.pdb
+D:\Whitireia\Year 1\Semester 2 2016\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csprojResolveAssemblyReference.cache
+D:\Whitireia\Year 1\Semester 2 2016\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.SalesSystem.resources
+D:\Whitireia\Year 1\Semester 2 2016\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.Properties.Resources.resources
+D:\Whitireia\Year 1\Semester 2 2016\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csproj.GenerateResource.Cache
+D:\Whitireia\Year 1\Semester 2 2016\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.csproj.CoreCompileInputs.cache
+D:\Whitireia\Year 1\Semester 2 2016\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.exe
+D:\Whitireia\Year 1\Semester 2 2016\Programming\Assignment 1\SalesSystem\SalesSystem\obj\Debug\SalesSystem.pdb
